@@ -19,7 +19,7 @@ This project focuses on analyzing the population trends in Toronto over the year
 
 ## View the Project
 
-You can view the complete project and its visualizations by following this [Google Colab link](colab_link). Explore the trends and gain insights into the population dynamics in Toronto.
+You can view the complete project and its visualizations by following this [Google Colab link](https://colab.research.google.com/drive/1nM3Jl9fl0v5arffC4a2b6jMwrZA_sIbg?usp=drive_link). Explore the trends and gain insights into the population dynamics in Toronto.
 
 ## Future Directions
 
